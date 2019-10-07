@@ -12,4 +12,4 @@ https://github.com/kexiZeroing/chatroom-client
 - In project directory, add heroku as a git remote, `heroku git:remote -a your-app`
 - Run git add, git commit, git push heroku master
 - Check the url on `https://dashboard.heroku.com/apps/your-app/settings`
-- deploy url: `https://chatroom-react-socketio.herokuapp.com/`
+- visit `https://chatroom-react-socketio.herokuapp.com/`
