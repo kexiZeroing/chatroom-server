@@ -13,3 +13,4 @@ https://github.com/kexiZeroing/chatroom-client
 - Run git add, git commit, git push heroku master
 - Check the url on `https://dashboard.heroku.com/apps/your-app/settings`
 - visit https://chatroom-react-socketio.herokuapp.com/
+- check logs in termial: `heroku logs --app=chatroom-react-socketio`
